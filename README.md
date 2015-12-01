@@ -326,3 +326,5 @@ expect(response).to.eql(["milk", "yogurt", "cheese", "carrots", "broccoli", "cuc
 ## Resources: 
 
 * [Ruby Docs on Hashes](http://ruby-doc.org/core-2.2.0/Hash.html)
+
+<a href='https://learn.co/lessons/sophie-hash' data-visibility='hidden'>Learn.co resource</a>
